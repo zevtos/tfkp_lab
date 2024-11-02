@@ -1,0 +1,30 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{3}{section.1}%
+\contentsline {section}{\numberline {2}Определения}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Множество Мандельброта}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Множество Жюлиа}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Математические концепции}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Итерация и композиция}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Устойчивость итераций}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Доказательства свойств множества Мандельброта}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Доказательство симметрии относительно вещественной оси}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Доказательство ограничения по модулю}{4}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Визуализация множества Мандельброта}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Описание алгоритма}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Реализация на Python}{5}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Результаты визуализации}{6}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Визуализация множества Жюлиа}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Описание алгоритма}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Реализация на Python}{7}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Результаты визуализации}{8}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Исследование другого фрактала: Фрактал Виксека}{9}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Описание фрактала}{9}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Алгоритм построения}{9}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Реализация на Python}{9}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Результаты визуализации}{10}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Анализ результатов}{11}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Набор изображений при разных параметрах}{12}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Множество Мандельброта при разных итерациях}{12}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Приближение отдельных частей множества Мандельброта}{13}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Множество Жюлиа при разных значениях $c$}{13}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Заключение}{14}{section.9}%
