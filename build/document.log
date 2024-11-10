@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.18)  10 NOV 2024 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.18)  10 NOV 2024 18:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -599,7 +599,8 @@ e 20.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count306
 \l__pdf_internal_box=\box58
-) (document.aux (titlepage.aux))
+) (C:\Users\zevtos\itmo\tex\math\lab1\build\document.aux
+(C:\Users\zevtos\itmo\tex\math\lab1\build\titlepage.aux))
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -646,8 +647,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 22.
- (document.out)
-(document.out)
+
+(C:\Users\zevtos\itmo\tex\math\lab1\build\document.out)
+(C:\Users\zevtos\itmo\tex\math\lab1\build\document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
 
@@ -706,7 +708,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 {C:/Users/zevtos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
-(document.toc)
+(C:\Users\zevtos\itmo\tex\math\lab1\build\document.toc)
 \tf@toc=\write4
 \openout4 = `document.toc'.
 
@@ -856,7 +858,8 @@ s been already used, duplicate ignored
 l.366 	\newpage
                 <./images/julia_c1.png> <./images/julia_c2.png>]
 
-[13] (document.aux (titlepage.aux))
+[13] (C:\Users\zevtos\itmo\tex\math\lab1\build\document.aux
+(C:\Users\zevtos\itmo\tex\math\lab1\build\titlepage.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -866,7 +869,7 @@ Package rerunfilecheck Info: File `document.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  15185 strings out of 473899
- 227961 string characters out of 5736311
+ 228290 string characters out of 5736311
  988097 words of memory out of 5000000
  37679 multiletter control sequences out of 15000+600000
  572646 words of font info for 74 fonts, out of 8000000 for 9000
@@ -890,7 +893,7 @@ iles/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
 blic/amsfonts/symbols/msbm10.pfb>
 Output written on C:\Users\zevtos\itmo\tex\math\lab1\build\document.pdf (14 pag
-es, 1084982 bytes).
+es, 1085004 bytes).
 PDF statistics:
  852 PDF objects out of 1000 (max. 8388607)
  177 named destinations out of 1000 (max. 500000)
